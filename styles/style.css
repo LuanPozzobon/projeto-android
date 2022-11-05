@@ -91,7 +91,6 @@ main h1{
     font-weight: 100;
     color: var(--cor3);
     font-size: 2em;
-    text-align: left;
 }
 
 main h2{
@@ -101,7 +100,6 @@ main h2{
     background-image: linear-gradient(to right, var(--cor1), transparent);
     font-size: 1.5em;
     border: 0px;
-    text-align: left;
 }
 
 main p{
